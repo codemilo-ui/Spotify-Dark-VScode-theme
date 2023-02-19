@@ -2,7 +2,7 @@
   "name": "spotify-theme-dark",
   "displayName": "Spotify Theme Dark",
   "description": "A spotify theme for vscode",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.75.0"
   },
