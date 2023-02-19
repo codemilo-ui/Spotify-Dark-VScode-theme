@@ -1,0 +1,21 @@
+{
+  "name": "spotify-theme-dark",
+  "displayName": "Spotify Theme Dark",
+  "description": "A spotify theme for vscode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Spotify Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Spotify Dark-color-theme.json"
+      }
+    ]
+  }
+}
