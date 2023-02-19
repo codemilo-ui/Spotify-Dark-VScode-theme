@@ -3,8 +3,12 @@
   "displayName": "Spotify Theme Dark",
   "description": "A spotify theme for vscode",
   "version": "1.0.0",
-  "repository" : "https://github.com/codemilo-ui/Spotify-Dark-VScode-theme",
-  
+  "author": "codemilo",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codemilo-ui/Spotify-Dark-VScode-theme"
+  },
   "engines": {
     "vscode": "^1.75.0"
   },
